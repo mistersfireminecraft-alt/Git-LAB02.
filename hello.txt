@@ -1,3 +1,5 @@
 Hello GitHub!
 To jest moje pierwsze laboratorium Git.
 Ucze sie tworzyc pliki i commity.
+
+To jest zmiana w nowej galezi Git.
